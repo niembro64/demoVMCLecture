@@ -35,3 +35,4 @@ C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.5\demoVMCLecture\obj\Debug
 C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.5\demoVMCLecture\obj\Debug\netcoreapp3.1\demoVMCLecture.pdb
 C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.5\demoVMCLecture\obj\Debug\netcoreapp3.1\demoVMCLecture.genruntimeconfig.cache
 C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.5\demoVMCLecture\obj\Debug\netcoreapp3.1\demoVMCLecture.csproj.CopyComplete
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\1.5\demoVMCLecture\obj\Debug\netcoreapp3.1\Razor\Views\Home\Results.cshtml.g.cs

@@ -3,6 +3,21 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <h1>My Form</h1>
+    <form action="postForm" method="post">
+        <formgroup>
+            <label for="Name">Name</label>
+            <input type="text" name="Name">
+        </formgroup>
+        <formgroup>
+            <label for="Color">Color</label>
+            <input type="text" name="Color">
+        </formgroup>
+        <formgroup>
+            <label for="Number">Number</label>
+            <input type="text" name="Number">
+        </formgroup>
+        <input type="submit" class="btn btn-primary">
+    </form>
 </div>
