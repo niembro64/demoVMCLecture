@@ -37,7 +37,16 @@ namespace demoVMCLecture.Controllers
     [HttpPost("postForm")]
     public IActionResult postForm(User newUser)
     {
-      return View("Results", newUser);
+      if (ModelState.IsValid)
+      {
+        return View("Results", newUser);
+      }
+      else
+      {
+        return View("Index");
+
+      }
+
     }
   }
 }
